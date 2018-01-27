@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #222;
+    text-align: center;
+    padding: 20px;
+}
+
+.navbar a {
+    color: white;
+    margin: 5px;
+}
+
+.navbar a:hover {
+    color: orange;
+}
+
+.navbar a:active {
+    color: red;
+}
